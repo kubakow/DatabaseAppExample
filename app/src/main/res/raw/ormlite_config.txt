@@ -1,0 +1,21 @@
+#
+# generated on 2017/03/22 08:48:20
+#
+# --table-start--
+dataClass=com.example.rent.databaseappexample.Task
+tableName=tasks
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=title
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=dateCreated
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
